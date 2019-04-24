@@ -1,0 +1,21 @@
+{
+  "name": "Row Editing - DevExtreme Tree List",
+  "main": "src/app/app.component.ts",
+  "description": "This example demonstrates editing in «row» mode. Each row is supplied with an «Edit» link, a click on which switches the row into the editing state. Editors vary from one cell to another: they may be calendars, select boxes, simple text boxes, etc. Note that you can also add or delete a row using the «Add a row» button or the «Delete» link, respectively.\n\n        ",
+  "dependencies": {
+    "zone.js": "0.6.25",
+    "rxjs": "6.3.3",
+    "quill": "1.3.6",
+    "jszip": "3.1.3",
+    "devextreme-angular": "18.2",
+    "devextreme": "18.2",
+    "core-js": "2.4.1",
+    "@angular/router": "7.1.3",
+    "@angular/platform-browser-dynamic": "7.1.3",
+    "@angular/platform-browser": "7.1.3",
+    "@angular/forms": "7.1.3",
+    "@angular/core": "7.1.3",
+    "@angular/compiler": "7.1.3",
+    "@angular/common": "7.1.3"
+  }
+}
